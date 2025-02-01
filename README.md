@@ -1,5 +1,7 @@
-# How to ?
-To use chart in a static/dynamic file, we should use chart.umd.js
-
 # Libraries versions
-- `chart.min.js`: v4.4.1 (https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js)
+- `chart.umd.js`: v4.4.1
+
+# Overview 
+
+## chart.js 
+Chart.js is a library that allows you to easily create various types of charts, like bar charts, line charts, and pie charts, using HTML5 canvas elements.
